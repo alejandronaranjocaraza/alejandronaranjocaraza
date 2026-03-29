@@ -3,14 +3,18 @@
 I'm a Data Engineer, Applied Mathematician, and Data Scientist based in Mexico City.
 I specialize in building data-driven solutions using **Python** and **C++**, with experience across the full development lifecycle — from data pipelines and modeling to deployment.
 
-### 🛠️ Tech Stack
+---
+
+### 🛠️ Tools & Tech
 - **Languages:** Python, C++
 - **Data:** SQL, Pandas, NumPy
 - **Machine Learning:** Scikit-learn, SciPy
 - **Data Engineering:** Airflow, DuckDB, dbt
 - **Web:** HTML, CSS, JavaScript
 
-### 🔍 Interests
+---
+
+### Interests
 - Data Engineering & Infrastructure
 - Data Science
 - Scientific Computing  
