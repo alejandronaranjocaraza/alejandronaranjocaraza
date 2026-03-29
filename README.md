@@ -28,7 +28,6 @@ I specialize in building data-driven solutions using **Python** and **C++**, wit
 ### ☕ More About Me
 
 - Very much a coffee person ☕  
-- Currently live with a physicist ⚛️ and a very philosophical roommate 🤔  
 - Like hiking 🥾 and skating 🛹  
   
 <!--
