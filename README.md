@@ -6,6 +6,7 @@ I specialize in building data-driven solutions using **Python** and **C++**, wit
 ---
 
 ### 🛠️ Tools & Tech
+
 - **Languages:** Python, C++
 - **Data:** SQL, Pandas, NumPy
 - **Machine Learning:** Scikit-learn, SciPy
@@ -14,11 +15,21 @@ I specialize in building data-driven solutions using **Python** and **C++**, wit
 
 ---
 
-### Interests
+### 🔍 Interests
+
 - Data Engineering & Infrastructure
 - Data Science
 - Scientific Computing  
 - Applied Mathematics
+- Linux, Tmux, i3
+
+---
+
+### ☕ More About Me
+
+- Very much a coffee person ☕  
+- Currently live with a physicist ⚛️ and a very philosophical roommate 🤔  
+- Like hiking 🥾 and skating 🛹  
   
 <!--
 **alejandronaranjocaraza/alejandronaranjocaraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
