@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 I'm a Data Engineer, Applied Mathematician, and Data Scientist based in Mexico City.
 I specialize in building data-driven solutions using **Python** and **C++**, with experience across the full development lifecycle — from data pipelines and modeling to deployment.
@@ -28,7 +28,7 @@ I specialize in building data-driven solutions using **Python** and **C++**, wit
 ### ☕ More About Me
 
 - Very much a coffee person ☕  
-- Like hiking 🥾 and skating 🛹  
+- Like hiking and skating 🛹  
   
 <!--
 **alejandronaranjocaraza/alejandronaranjocaraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
