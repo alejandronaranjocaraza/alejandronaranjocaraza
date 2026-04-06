@@ -1,7 +1,8 @@
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-I'm a Data Engineer, Applied Mathematician, and Data Scientist based in Mexico City.
-I specialize in building data-driven solutions using **Python** and **C++**, with experience across the full development lifecycle — from data pipelines and modeling to deployment.
+I'm an Applied Mathematician, Data Engineer, and Data Scientist based in Mexico City.
+I build data-driven solutions in **Python** and **C++** — from data pipelines and
+quantitative modeling to deployment.
 
 ---
 
@@ -19,9 +20,9 @@ I specialize in building data-driven solutions using **Python** and **C++**, wit
 
 - Data Engineering & Infrastructure
 - Data Science
-- Scientific Computing  
-- Applied Mathematics
-- Linux, Tmux, i3
+- Quantitative Modeling & Scientific Computing
+- Applied Mathematics & Data Science
+- Linux · i3 · Tmux
 
 ---
 
