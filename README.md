@@ -6,6 +6,16 @@ quantitative modeling to deployment.
 
 ---
 
+### 📊 Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**repo-name**](https://github.com/username/repo-name) | What it does in one line | C++, Python |
+| [**repo-name**](https://github.com/username/repo-name) | What it does in one line | Dbt, DuckDB |
+| [**repo-name**](https://github.com/username/repo-name) | What it does in one line | C++ |
+
+---
+
 ### 🛠️ Tools & Tech
 
 - **Languages:** Python, C++
