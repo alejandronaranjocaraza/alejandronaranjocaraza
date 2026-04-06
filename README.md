@@ -6,16 +6,6 @@ quantitative modeling to deployment.
 
 ---
 
-### 📊 Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Derivative Pricing with C++**](https://github.com/alejandronaranjocaraza/derivative-pricing) | Overview of main pricing frameworks and implementation in C++. | C++, Python |
-| [**Dbt Pipeline with Medallion Architecture**](https://github.com/alejandronaranjocaraza/dbt-medallion-pipeline) | Builds star schema from real company data (anonymized). | Dbt, DuckDB |
-| [**Numerical Optimization in C++**](https://github.com/alejandronaranjocaraza/numerical-optimization-basic-cpp) | Implementation of gradient-based optimization algorithms using finite difference derivatives. | C++ |
-
----
-
 ### 🛠️ Tools & Tech
 
 - **Languages:** Python, C++
@@ -23,6 +13,16 @@ quantitative modeling to deployment.
 - **Machine Learning:** Scikit-learn, SciPy
 - **Data Engineering:** Airflow, DuckDB, dbt
 - **Web:** HTML, CSS, JavaScript
+
+---
+
+### 📊 Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Derivative Pricing with C++**](https://github.com/alejandronaranjocaraza/derivative-pricing) | Implements core pricing frameworks (Black-Scholes, binomial trees) for financial derivatives. | C++, Python |
+| [**dbt Pipeline with Medallion Architecture**](https://github.com/alejandronaranjocaraza/dbt-medallion-pipeline) | Builds a star schema from real anonymized company data using a bronze/silver/gold layer pipeline. | dbt, DuckDB |
+| [**Numerical Optimization in C++**](https://github.com/alejandronaranjocaraza/numerical-optimization-basic-cpp) | Implements gradient-based optimization algorithms using finite difference derivatives. | C++ |
 
 ---
 
