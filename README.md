@@ -10,9 +10,9 @@ quantitative modeling to deployment.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**repo-name**](https://github.com/username/repo-name) | What it does in one line | C++, Python |
-| [**repo-name**](https://github.com/username/repo-name) | What it does in one line | Dbt, DuckDB |
-| [**repo-name**](https://github.com/username/repo-name) | What it does in one line | C++ |
+| [**Derivative Pricing with C++**](https://github.com/alejandronaranjocaraza/derivative-pricing) | Overview of main pricing frameworks and implementation in C++. | C++, Python |
+| [**Dbt Pipeline with Medallion Architecture**](https://github.com/alejandronaranjocaraza/dbt-medallion-pipeline) | Builds star schema from real company data (anonymized). | Dbt, DuckDB |
+| [**Numerical Optimization in C++**](https://github.com/alejandronaranjocaraza/numerical-optimization-basic-cpp) | Implementation of gradient-based optimization algorithms using finite difference derivatives. | C++ |
 
 ---
 
