@@ -21,7 +21,7 @@ quantitative modeling to deployment.
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**Derivative Pricing with C++**](https://github.com/alejandronaranjocaraza/derivative-pricing) | Implements core pricing frameworks (Black-Scholes, binomial trees) for financial derivatives. | C++, Python |
-| [**dbt Pipeline with Medallion Architecture**](https://github.com/alejandronaranjocaraza/dbt-medallion-pipeline) | Builds a star schema from real anonymized company data using a bronze/silver/gold layer pipeline. | dbt, DuckDB |
+| [**dbt Pipeline with Medallion Architecture**](https://github.com/alejandronaranjocaraza/dbt-medallion-pipeline) | Anonymized company pipeline using medallion architecture. | dbt, DuckDB |
 | [**Numerical Optimization in C++**](https://github.com/alejandronaranjocaraza/numerical-optimization-basic-cpp) | Implements gradient-based optimization algorithms using finite difference derivatives. | C++ |
 
 ---
