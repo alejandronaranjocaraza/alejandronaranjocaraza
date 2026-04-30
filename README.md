@@ -22,6 +22,7 @@ quantitative modeling to deployment.
 |---------|-------------|-------|
 | [**Derivative Pricing with C++**](https://github.com/alejandronaranjocaraza/derivative-pricing) | Implements core pricing frameworks (Black-Scholes, binomial trees) for financial derivatives. | C++, Python |
 | [**dbt Pipeline with Medallion Architecture**](https://github.com/alejandronaranjocaraza/dbt-medallion-pipeline) | Anonymized company pipeline using medallion architecture. | dbt, DuckDB |
+| [**ML Credit Scoring Pipeline**](https://github.com/alejandronaranjocaraza/credit-risk-simulator) | End-to-end customer credit default scoring pipeline. | Airflow, dbt, scikit-learn, Docker, PostgreSQL |
 | [**Numerical Optimization in C++**](https://github.com/alejandronaranjocaraza/numerical-optimization-basic-cpp) | Implements gradient-based optimization algorithms using finite difference derivatives. | C++ |
 
 ---
