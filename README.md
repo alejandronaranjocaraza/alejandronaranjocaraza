@@ -1,6 +1,6 @@
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-I'm an Applied Mathematician, Data Engineer, and Data Scientist based in Mexico City.
+I'm an Applied Mathematician based in Mexico City.
 I build data-driven solutions in **Python** and **C++** — from data pipelines and
 quantitative modeling to deployment.
 
